@@ -6,11 +6,9 @@
 
 
 <a href="https://solved.ac/cjstkd2866/" target="_blank">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winterflower" alt="Solved.ac Profile" style="height: 170px;">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjstkd2866" alt="Solved.ac Profile" style="height: 170px;">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=minseonkkim&title_color=249225&bg_color=f8f9fa" alt="Github Status" style="height: 170px;">
-</a>
+
 
 
 <h3>Languages and Tools:</h3>
