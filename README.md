@@ -12,9 +12,10 @@
 
 | Service | Description | Award |
 |:--:|:--:|:--:|
+| [E.D.I.T.H.](https://github.com/sangmin0806/E.D.I.T.H.) | AI를 활용한 자동 코드 리뷰 및 포트폴리오 생성 개발보조 서비스 | SSAFY 11기 자율프로젝트 최우수(지역 대표 팀, 141개 팀 중 5위) |
 | [키즈링크](https://github.com/sangmin0806/KidsLink) | 유치원-학부모 연결 플랫폼 | SSAFY 11기 공통프로젝트 최우수 |
 | [썬더일레븐](https://github.com/sangmin0806/FootBall_Matching) | 풋살 매칭 웹서비스 | 웹 서버 프로그래밍 경진대회 최우수 |
-| [Watch Dog](https://github.com/sangmin0806/-PrivateCloud_Monitoring_System) | Private Cloud 및 모니터링 시스템 구축 | 캡스톤디자인 1등 |
+| [Watch Dog](https://github.com/sangmin0806/-PrivateCloud_Monitoring_System) | Private Cloud 및 모니터링 시스템 구축 | 프로젝트 기획 경진대회 최우수 |
 
 
 
